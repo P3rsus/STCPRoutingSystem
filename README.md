@@ -1,3 +1,1 @@
-# AED2
-
-# RUMO AO 20 #
+# STCP Routing System
